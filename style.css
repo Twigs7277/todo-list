@@ -18,7 +18,7 @@ body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     
     /* --- 新增：背景图片设置 --- */
-    background-image: url('background-image.jpg');
+    background-image: url('https://img.050413.xyz/file/1743259986965_wallhaven-l3x1ky_2560x1600.png');
     background-size: cover; /* 让图片完全覆盖整个背景区域，可能会裁剪图片 */
     background-position: center center; /* 将图片在视口中居中 */
     background-repeat: no-repeat; /* 防止图片平铺重复 */
@@ -230,4 +230,5 @@ li .time-info {
     color: #888;
     margin-top: 6px;
     text-align: left;
+
 }
